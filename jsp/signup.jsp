@@ -12,7 +12,7 @@
 
 <body>
     <div class="App">
-        <div id="headerDiv"><object type="text/html" data="./components/header.jsp" style="overflow:auto; width: 100%; height: 100%;"></object></div>
+        <jsp:include page="./components/header.jsp"/>
         <!-- Black bar above -->
         <div class="border p-5 bg-black text-white mb-6 text-center">
             <div class="align-middle">

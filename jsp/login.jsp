@@ -12,7 +12,7 @@
 
 <body>
     <div class="App">
-        <div id="headerDiv"><object type="text/html" data="./components/header.jsp" style="overflow:auto; width: 100%; height: 100%;"></object></div>
+        <jsp:include page="./components/header.jsp"/>
         
         <div class="border flex p-5 text-black justify-center text-center">
             <div class="">
