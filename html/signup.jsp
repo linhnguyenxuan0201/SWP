@@ -1,7 +1,9 @@
+<%@page contentType="text/html" pageEncoding="UTF-8"%>
 <!DOCTYPE html>
 <html>
 
 <head>
+    <meta http-equiv="Content-Type" content="text/html; charset=UTF-8">
     <title>
         Sign Up
     </title>
@@ -10,7 +12,7 @@
 
 <body>
     <div class="App">
-        <div id="headerDiv"><object type="text/html" data="./components/header.html" style="overflow:auto; width: 100%; height: 100%;"></object></div>
+        <div id="headerDiv"><object type="text/html" data="./components/header.jsp" style="overflow:auto; width: 100%; height: 100%;"></object></div>
         <!-- Black bar above -->
         <div class="border p-5 bg-black text-white mb-6 text-center">
             <div class="align-middle">

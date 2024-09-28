@@ -1,17 +1,18 @@
+<%@page contentType="text/html" pageEncoding="UTF-8"%>
 <!DOCTYPE html>
 <html>
 
 <head>
+    <meta http-equiv="Content-Type" content="text/html; charset=UTF-8">
 	<title>
 		Login
 	</title>
     <script src="https://cdn.tailwindcss.com"></script>
-    
 </head>
 
 <body>
     <div class="App">
-        <div id="headerDiv"><object type="text/html" data="./components/header.html" style="overflow:auto; width: 100%; height: 100%;"></object></div>
+        <div id="headerDiv"><object type="text/html" data="./components/header.jsp" style="overflow:auto; width: 100%; height: 100%;"></object></div>
         
         <div class="border flex p-5 text-black justify-center text-center">
             <div class="">
