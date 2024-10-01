@@ -38,7 +38,7 @@
                 </div>
                 <!-- Log In -->
                 <div class="flex-1">
-                <a href="/login">
+                <a href="login">
                     <div class="ml-5 flex flex-row">
                         <div class=""><img src="../img/profile.png" alt="" class="mt-2 h-7" /></div>
                         <div class="mt-2">Log In</div>
@@ -51,7 +51,7 @@
                 </div>
                 <!-- Cart -->
                 <div class="flex-1">
-                    <a href="/cart">
+                    <a href="cart">
                     <img src="../img/cart.png" alt="" class="mt-1 h-7" />
                     </a>
                 </div>
