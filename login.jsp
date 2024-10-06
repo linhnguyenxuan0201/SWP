@@ -17,7 +17,8 @@
         <div class="border flex p-5 text-black justify-center text-center">
             <div class="">
                 <h class="text-3xl">Đăng Nhập</h>
-
+                
+                <form action="Login" method="post">
                 <div class="flex mt-5 bg-gray-200">
                     <img src="./img/profile.png" alt="" class="h-7 my-auto ml-3" />
                     <input type="text" placeholder="Email:" class="py-5 pl-2 text-black placeholder-black bg-gray-200 w-[30rem] text-center" />
@@ -31,6 +32,7 @@
                         Đăng nhập
                     </div>
                 </div>
+                </form>
 
                 <div class="mt-2">
                     <a class="text-sm" href="#">Quên mật khẩu?</a>
