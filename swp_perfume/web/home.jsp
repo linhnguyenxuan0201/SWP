@@ -89,7 +89,8 @@
             <div class="mt-7">
                 <div class="w-screen grid grid-cols-6 gap-4 justify-center ml-7 mr-7">
                     <!-- item element starts -->
-                    <div class="text-center space-y-3 w-[150px]">
+                    
+                    <div class="text-center space-y-3 w-[175px]">
                         <div class="">
                             <img src="./img/wishlist.png" alt="Wishlist Button"
                                  class="relative jutify-end z-10 -mb-9 ml-auto" />
@@ -97,12 +98,12 @@
                         </div>
                         <p class="z-0">Manos Gerakinis</p>
                         <p class="z-0">Manos Gerakinis Anthem</p>
-                        <button class="text-black bg-red-400 z-0 w-72">6.500.000 VND</button>
+                        <button class="text-black bg-red-400 z-0 w-[175px]">6.500.000 VND</button>
                     </div>
                     <!-- items element end -->
 
                     <!-- item element starts -->
-                    <div class="text-center space-y-3 w-[150px]">
+                    <div class="text-center space-y-3 w-[175px]">
                         <div class="">
                             <img src="./img/wishlist.png" alt="Wishlist Button"
                                  class="relative jutify-end z-10 -mb-9 ml-auto" />
@@ -110,12 +111,12 @@
                         </div>
                         <p class="z-0">BVLGARI</p>
                         <p class="z-0">Bvlgari Man Glacial Essence</p>
-                        <button class="text-black bg-red-400 z-0 w-72">8.500.000 VND</button>
+                        <button class="text-black bg-red-400 z-0 w-[175px]">8.500.000 VND</button>
                     </div>
                     <!-- items element end -->
 
                     <!-- item element starts -->
-                    <div class="text-center space-y-3 w-[150px]">
+                    <div class="text-center space-y-3 w-[175px]">
                         <div class="">
                             <img src="./img/wishlist.png" alt="Wishlist Button"
                                  class="relative jutify-end z-10 -mb-9 ml-auto" />
@@ -123,12 +124,12 @@
                         </div>
                         <p class="z-0">Chanel</p>
                         <p class="z-0">Chanel Gabrielle</p>
-                        <button class="text-black bg-red-400 z-0 w-72">5.500.000 VND</button>
+                        <button class="text-black bg-red-400 z-0 w-[175px]">5.500.000 VND</button>
                     </div>
                     <!-- items element end -->
 
                     <!-- item element starts -->
-                    <div class="text-center space-y-3 w-[150px]">
+                    <div class="text-center space-y-3 w-[175px]">
                         <div class="">
                             <img src="./img/wishlist.png" alt="Wishlist Button"
                                  class="relative jutify-end z-10 -mb-9 ml-auto" />
@@ -136,12 +137,12 @@
                         </div>
                         <p class="z-0">Christian Dior</p>
                         <p class="z-0">Dior Poison Girl Unexpected Roller-Pearl</p>
-                        <button class="text-black bg-red-400 z-0 w-72">3.500.000 VND</button>
+                        <button class="text-black bg-red-400 z-0 w-[175px]">3.500.000 VND</button>
                     </div>
                     <!-- items element end -->
 
                     <!-- item element starts -->
-                    <div class="text-center space-y-3 w-[150px]">
+                    <div class="text-center space-y-3 w-[175px]">
                         <div class="">
                             <img src="./img/wishlist.png" alt="Wishlist Button"
                                  class="relative jutify-end z-10 -mb-9 ml-auto" />
@@ -149,12 +150,12 @@
                         </div>
                         <p class="z-0">Narciso Rodriguez</p>
                         <p class="z-0">Narciso Rodriguez For Him Bleu Noir Eau De Parfum</p>
-                        <button class="text-black bg-red-400 z-0 w-72">5.500.000 VND</button>
+                        <button class="text-black bg-red-400 z-0 w-[175px]">5.500.000 VND</button>
                     </div>
                     <!-- items element end -->
 
                     <!-- item element starts -->
-                    <div class="text-center space-y-3 w-[150px]">
+                    <div class="text-center space-y-3 w-[175px]">
                         <div class="">
                             <img src="./img/wishlist.png" alt="Wishlist Button"
                                  class="relative jutify-end z-10 -mb-9 ml-auto" />
@@ -162,7 +163,7 @@
                         </div>
                         <p class="z-0">Calvin Klein</p>
                         <p class="z-0">Calvin Klein CK Be</p>
-                        <button class="text-black bg-red-400 z-0 w-72">7.500.000 VND</button>
+                        <button class="text-black bg-red-400 z-0 w-[175px]">7.500.000 VND</button>
                     </div>
                     <!-- items element end -->
                 </div>
@@ -174,7 +175,7 @@
             <div class="mt-7">
                 <div class="w-screen grid grid-cols-6 gap-4 justify-center ml-7 mr-7">
                     <!-- item element starts -->
-                    <div class="text-center space-y-3 w-[150px]">
+                    <div class="text-center space-y-3 w-[175px]">
                         <div class="">
                             <img src="./img/wishlist.png" alt="Wishlist Button"
                                  class="relative jutify-end z-10 -mb-9 ml-auto" />
@@ -182,12 +183,12 @@
                         </div>
                         <p class="z-0">Christian Dior</p>
                         <p class="z-0">Dior JOY by Dior Mini Size</p>
-                        <button class="text-black bg-red-400 z-0 w-72">3.500.000 VND</button>
+                        <button class="text-black bg-red-400 z-0 w-[175px]">3.500.000 VND</button>
                     </div>
                     <!-- items element end -->
 
                     <!-- item element starts -->
-                    <div class="text-center space-y-3 w-[150px]">
+                    <div class="text-center space-y-3 w-[175px]">
                         <div class="">
                             <img src="./img/wishlist.png" alt="Wishlist Button"
                                  class="relative jutify-end z-10 -mb-9 ml-auto" />
@@ -195,12 +196,12 @@
                         </div>
                         <p class="z-0">Louis Vuitton</p>
                         <p class="z-0">Louis Vuitton Turbulences</p>
-                        <button class="text-black bg-red-400 z-0 w-72">3.500.000 VND</button>
+                        <button class="text-black bg-red-400 z-0 w-[175px]">3.500.000 VND</button>
                     </div>
                     <!-- items element end -->
 
                     <!-- item element starts -->
-                    <div class="text-center space-y-3 w-[150px]">
+                    <div class="text-center space-y-3 w-[175px]">
                         <div class="">
                             <img src="./img/wishlist.png" alt="Wishlist Button"
                                  class="relative jutify-end z-10 -mb-9 ml-auto" />
@@ -208,12 +209,12 @@
                         </div>
                         <p class="z-0">Christian Dior</p>
                         <p class="z-0">Christian Dior Dune</p>
-                        <button class="text-black bg-red-400 z-0 w-72">3.500.000 VND</button>
+                        <button class="text-black bg-red-400 z-0 w-[175px]">3.500.000 VND</button>
                     </div>
                     <!-- items element end -->
 
                     <!-- item element starts -->
-                    <div class="text-center space-y-3 w-[150px]">
+                    <div class="text-center space-y-3 w-[175px]">
                         <div class="">
                             <img src="./img/wishlist.png" alt="Wishlist Button"
                                  class="relative jutify-end z-10 -mb-9 ml-auto" />
@@ -221,12 +222,12 @@
                         </div>
                         <p class="z-0">Creed</p>
                         <p class="z-0">Creed Aventus</p>
-                        <button class="text-black bg-red-400 z-0 w-72">3.500.000 VND</button>
+                        <button class="text-black bg-red-400 z-0 w-[175px]">3.500.000 VND</button>
                     </div>
                     <!-- items element end -->
 
                     <!-- item element starts -->
-                    <div class="text-center space-y-3 w-[150px]">
+                    <div class="text-center space-y-3 w-[175px]">
                         <div class="">
                             <img src="./img/wishlist.png" alt="Wishlist Button"
                                  class="relative jutify-end z-10 -mb-9 ml-auto" />
@@ -234,12 +235,12 @@
                         </div>
                         <p class="z-0">Korloff Paris</p>
                         <p class="z-0">Korloff Paris Iris Dore</p>
-                        <button class="text-black bg-red-400 z-0 w-72">3.500.000 VND</button>
+                        <button class="text-black bg-red-400 z-0 w-[175px]">3.500.000 VND</button>
                     </div>
                     <!-- items element end -->
 
                     <!-- item element starts -->
-                    <div class="text-center space-y-3 w-[150px]">
+                    <div class="text-center space-y-3 w-[175px]">
                         <div class="">
                             <img src="./img/wishlist.png" alt="Wishlist Button"
                                  class="relative jutify-end z-10 -mb-9 ml-auto" />
@@ -247,7 +248,7 @@
                         </div>
                         <p class="z-0">Tom Ford</p>
                         <p class="z-0">Tom Ford Ombré Leather</p>
-                        <button class="text-black bg-red-400 z-0 w-72">3.500.000 VND</button>
+                        <button class="text-black bg-red-400 z-0 w-[175px]">3.500.000 VND</button>
                     </div>
                     <!-- items element end -->
                 </div>
@@ -289,7 +290,7 @@
             <div class="mt-7">
                 <div class="w-screen grid grid-cols-4 gap-4 justify-center ml-7 mr-7">
                     <!-- item element starts -->
-                    <div class="text-center space-y-3 w-[150px]">
+                    <div class="text-center space-y-3 w-[175px]">
                         <div class="">
                             <img src="./img/wishlist.png" alt="Wishlist Button"
                                  class="relative jutify-end z-10 -mb-9 ml-auto" />
@@ -297,12 +298,12 @@
                         </div>
                         <p class="z-0">Moschino</p>
                         <p class="z-0">Moschino Toy Boy</p>
-                        <button class="text-black bg-red-400 z-0 w-72">3.500.000 VND</button>
+                        <button class="text-black bg-red-400 z-0 w-[175px]">3.500.000 VND</button>
                     </div>
                     <!-- items element end -->
 
                     <!-- item element starts -->
-                    <div class="text-center space-y-3 w-[150px]">
+                    <div class="text-center space-y-3 w-[175px]">
                         <div class="">
                             <img src="./img/wishlist.png" alt="Wishlist Button"
                                  class="relative jutify-end z-10 -mb-9 ml-auto" />
@@ -310,12 +311,12 @@
                         </div>
                         <p class="z-0">Calvin Klein</p>
                         <p class="z-0">Calvin Klein CK One</p>
-                        <button class="text-black bg-red-400 z-0 w-72">3.500.000 VND</button>
+                        <button class="text-black bg-red-400 z-0 w-[175px]">3.500.000 VND</button>
                     </div>
                     <!-- items element end -->
 
                     <!-- item element starts -->
-                    <div class="text-center space-y-3 w-[150px]">
+                    <div class="text-center space-y-3 w-[175px]">
                         <div class="">
                             <img src="./img/wishlist.png" alt="Wishlist Button"
                                  class="relative jutify-end z-10 -mb-9 ml-auto" />
@@ -324,12 +325,12 @@
                         </div>
                         <p class="z-0">Christian Dior</p>
                         <p class="z-0">Dior Sausage Eau de Parfum</p>
-                        <button class="text-black bg-red-400 z-0 w-72">3.500.000 VND</button>
+                        <button class="text-black bg-red-400 z-0 w-[175px]">3.500.000 VND</button>
                     </div>
                     <!-- items element end -->
 
                     <!-- item element starts -->
-                    <div class="text-center space-y-3 w-[150px]">
+                    <div class="text-center space-y-3 w-[175px]">
                         <div class="">
                             <img src="./img/wishlist.png" alt="Wishlist Button"
                                  class="relative jutify-end z-10 -mb-9 ml-auto" />
@@ -337,7 +338,7 @@
                         </div>
                         <p class="z-0">Montblanc</p>
                         <p class="z-0">Montblanc Explorer</p>
-                        <button class="text-black bg-red-400 z-0 w-72">3.500.000 VND</button>
+                        <button class="text-black bg-red-400 z-0 w-[175px]">3.500.000 VND</button>
                     </div>
                     <!-- items element end -->
                 </div>
@@ -350,7 +351,7 @@
             <div class="mt-7">
                 <div class="w-screen grid grid-cols-4 gap-4 justify-center ml-7 mr-7">
                     <!-- item element starts -->
-                    <div class="text-center space-y-3 w-[150px]">
+                    <div class="text-center space-y-3 w-[175px]">
                         <div class="">
                             <img src="./img/wishlist.png" alt="Wishlist Button"
                                  class="relative jutify-end z-10 -mb-9 ml-auto" />
@@ -358,12 +359,12 @@
                         </div>
                         <p class="z-0">Gucci</p>
                         <p class="z-0">Gucci Flora Gorgeous Jasmine Mini Style</p>
-                        <button class="text-black bg-red-400 z-0 w-72">3.500.000 VND</button>
+                        <button class="text-black bg-red-400 z-0 w-[175px]">3.500.000 VND</button>
                     </div>
                     <!-- items element end -->
 
                     <!-- item element starts -->
-                    <div class="text-center space-y-3 w-[150px]">
+                    <div class="text-center space-y-3 w-[175px]">
                         <div class="">
                             <img src="./img/wishlist.png" alt="Wishlist Button"
                                  class="relative jutify-end z-10 -mb-9 ml-auto" />
@@ -371,12 +372,12 @@
                         </div>
                         <p class="z-0">Marc Jacobs</p>
                         <p class="z-0">Marc Jacobs Daisy Eau So Fresh Mini Style</p>
-                        <button class="text-black bg-red-400 z-0 w-72">3.500.000 VND</button>
+                        <button class="text-black bg-red-400 z-0 w-[175px]">3.500.000 VND</button>
                     </div>
                     <!-- items element end -->
 
                     <!-- item element starts -->
-                    <div class="text-center space-y-3 w-[150px]">
+                    <div class="text-center space-y-3 w-[175px]">
                         <div class="">
                             <img src="./img/wishlist.png" alt="Wishlist Button"
                                  class="relative jutify-end z-10 -mb-9 ml-auto" />
@@ -384,12 +385,12 @@
                         </div>
                         <p class="z-0">Moschino</p>
                         <p class="z-0">Moschino Toy 2</p>
-                        <button class="text-black bg-red-400 z-0 w-72">3.500.000 VND</button>
+                        <button class="text-black bg-red-400 z-0 w-[175px]">3.500.000 VND</button>
                     </div>
                     <!-- items element end -->
 
                     <!-- item element starts -->
-                    <div class="text-center space-y-3 w-[150px]">
+                    <div class="text-center space-y-3 w-[175px]">
                         <div class="">
                             <img src="./img/wishlist.png" alt="Wishlist Button"
                                  class="relative jutify-end z-10 -mb-9 ml-auto" />
@@ -397,7 +398,7 @@
                         </div>
                         <p class="z-0">Chloe</p>
                         <p class="z-0">Moschino Toy Boy</p>
-                        <button class="text-black bg-red-400 z-0 w-72">3.500.000 VND</button>
+                        <button class="text-black bg-red-400 z-0 w-[175px]">3.500.000 VND</button>
                     </div>
                     <!-- items element end -->
                 </div>
@@ -410,7 +411,7 @@
             <div class="mt-7">
                 <div class="w-screen grid grid-cols-4 gap-4 justify-center ml-7 mr-7">
                     <!-- item element starts -->
-                    <div class="text-center space-y-3 w-[150px]">
+                    <div class="text-center space-y-3 w-[175px]">
                         <a href="#" class="">
                             <img src="./img/mua xuan.jpg" alt="" class=" z-0" />
                         </a>
@@ -419,7 +420,7 @@
                     <!-- items element end -->
 
                     <!-- item element starts -->
-                    <div class="text-center space-y-3 w-[150px]">
+                    <div class="text-center space-y-3 w-[175px]">
                         <a href="#" class="">
                             <img src="./img/mua thu.jpg" alt="" class=" z-0" />
                         </a>
@@ -428,7 +429,7 @@
                     <!-- items element end -->
 
                     <!-- item element starts -->
-                    <div class="text-center space-y-3 w-[150px]">
+                    <div class="text-center space-y-3 w-[175px]">
                         <a href="#" class="">
                             <img src="./img/mua thu.jpg" alt="" class=" z-0" />
                         </a>
@@ -437,7 +438,7 @@
                     <!-- items element end -->
 
                     <!-- item element starts -->
-                    <div class="text-center space-y-3 w-[150px]">
+                    <div class="text-center space-y-3 w-[175px]">
                         <a href="#" class="">
                             <img src="./img/mua dong.jpg" alt="" class=" z-0" />
                         </a>
