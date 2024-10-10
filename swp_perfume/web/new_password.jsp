@@ -1,6 +1,6 @@
 <%-- 
-    Document   : login
-    Created on : Sep 15, 2024, 3:03:18 PM
+    Document   : reset password
+    Created on : Oct 9th, 2024, 3:03:18 PM
     Author     : T14
 --%>
 
@@ -22,33 +22,21 @@
         
         <div class="border flex p-5 text-black justify-center text-center">
             <div class="">
-                <h class="text-3xl">Đăng Nhập</h>
+                <h class="text-3xl">Quên mật khẩu?</h>
                 
-                <form action="Login" method="post">
-                <div class="flex mt-5 bg-gray-200">
-                    <img src="./img/profile.png" alt="" class="h-7 my-auto ml-3" />
-                    <input type="text" placeholder="Email:" class="py-5 pl-2 text-black placeholder-black bg-gray-200 w-[30rem] text-center" />
+                <form action="NewPassword" method="post">
+                <div class="flex mt-5">
+                    <p class="py-2 mr-3 text-center align-middle">Nhập mật khẩu mới:</p>
+                    <input type="text" placeholder="" class="py-2 pl-2 text-black placeholder-black bg-gray-200 w-[30rem] text-center" />
                 </div>
-                <div class="flex mt-5 bg-gray-200">
-                    <img src="./img/about.png" alt="" class="h-7 my-auto ml-3" />
-                    <input type="text" placeholder="Password:" class="py-5 pl-2 text-black placeholder-black bg-gray-200 w-[30rem] text-center" />
-                </div>
+                    
                 <div class="flex justify-evenly">
                     <button class="bg-red-600 text-black py-1.5 w-[20rem] mt-5">
-                        Đăng nhập
+                        Thay mật khẩu
                     </button>
                 </div>
                 </form>
-
-                <div class="mt-2">
-                    <a class="text-sm" href="#">Quên mật khẩu?</a>
-                </div>
-
-
-                <div class="flex mt-5 bg-gray-200">
-                    <img src={Password} alt="" class="h-7 my-auto ml-3" />
-                    <p class="text-2xl py-5 pl-2 text-black w-[30rem] text-center">LOG IN WITH GOOGLE MODAL</p>
-                </div>
+                
             </div>
         </div>
 
