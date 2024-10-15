@@ -36,23 +36,33 @@
                 <!-- Wrapper for slides -->
                 <div class="carousel-inner">
                     <div class="item active">
-                        <img src="./img/banner BVLGARI.jpg" alt="BVLGARI" class="object-fill max-h-[420px] w-full">
+                        <a href="BVLGARI.jsp">
+                            <img src="./img/banner BVLGARI.jpg" alt="BVLGARI" class="object-fill max-h-[420px] w-full">
+                        </a>
                     </div>
 
                     <div class="item">
+                        <a href="CHANEL.jsp">
                         <img src="./img/banner channel.jpg" alt="Chanel" class="object-fill max-h-[420px] w-full">
+                        </a>
                     </div>
 
                     <div class="item">
+                        <a href="DIOR.jsp">
                         <img src="./img/banner Dior.jpg" alt="Dior" class="object-fill max-h-[420px] w-full">
+                        </a>
                     </div>
 
                     <div class="item">
+                        <a href="LADY.jsp">
                         <img src="./img/banner Korloff.jpg" alt="Korloff" class="object-fill max-h-[420px] w-full">
+                        </a>
                     </div>
 
                     <div class="item">
+                        <a href="LOUIS.jsp">
                         <img src="./img/banner LouisVuiton.jpg" alt="LouisVulton" class="object-fill max-h-[420px] w-full">
+                        </a>
                     </div>
                 </div>
 
@@ -74,12 +84,12 @@
             <div class="mt-2 flex">
                 <img src="./img/thuong hieu ex.jpg" alt="" class="max-h-[550px]" />
                 <div class="w-screen grid grid-cols-3 gap-4 justify-center">
-                    <img src="./img/bvlgari_logo.png" alt="" class="max-h-[150px]" />
-                    <img src="./img/manos_gerakinis_logo.jpg" alt="" class="max-h-[150px]" />
-                    <img src="./img/chanel_logo.jpg" alt="" class="max-h-[150px]" />
-                    <img src="./img/korloff_logo.jpg" alt="" class="max-h-[150px]" />
-                    <img src="./img/Louis_Vuitton_logo.jpg" alt="" class="max-h-[150px]" />
-                    <img src="./img/christian_dior_logo.jpg" alt="" class="max-h-[150px]" />
+                    <a href="BVLGARI.jsp"><img src="./img/bvlgari_logo.png" alt="" class="max-h-[150px]" /></a>
+                    <a href="MANOS.jsp"><img src="./img/manos_gerakinis_logo.jpg" alt="" class="max-h-[150px]" /></a>
+                    <a href="CHANEL.jsp"><img src="./img/chanel_logo.jpg" alt="" class="max-h-[150px]" /></a>
+                    <a href="LADY.jsp"><img src="./img/korloff_logo.jpg" alt="" class="max-h-[150px]" /></a>
+                    <a href="LOUIS.jsp"><img src="./img/Louis_Vuitton_logo.jpg" alt="" class="max-h-[150px]" /></a>
+                    <a href="DIOR.jsp"><img src="./img/christian_dior_logo.jpg" alt="" class="max-h-[150px]" /></a>
                 </div>
             </div>
         </div>
@@ -262,22 +272,28 @@
                 <div class="w-screen grid grid-cols-3 gap-4 justify-center ml-7 mr-7 mx-5">
                     <!-- item element starts -->
                     <div class="text-center space-y-3 w-[300px]">
+                        <a href="BVLGARI.jsp">
                         <img src="./img/banner BVLGARI.jpg" alt="" class=" z-0" />
                         <p class="z-0 text-3xl">BVLGARI</p>
+                        </a>
                     </div>
                     <!-- items element end -->
                     
                     <!-- item element starts -->
                     <div class="text-center space-y-3 w-[300px]">
+                        <a href="MANOS.jsp">
                         <img src="./img/banner Manos Gerakinis.jpg" alt="" class=" z-0" />
                         <p class="z-0 text-3xl">Manos Gerakinis</p>
+                        </a>
                     </div>
                     <!-- items element end -->
                     
                     <!-- item element starts -->
                     <div class="text-center space-y-3 w-[300px]">
+                        <a href="LADY.jsp">
                         <img src="./img/banner Korloff.jpg" alt="" class=" z-0" />
                         <p class="z-0 text-3xl">Korloff</p>
+                        </a>
                     </div>
                     <!-- items element end -->
                 </div>
@@ -285,7 +301,7 @@
         </div>
         <div class="mt-5">
             <!-- Nuoc hoa nam -->
-            <p class="text-4xl ml-7">Nước hoa nam</p>
+            <a href="NUOCHOANAM.jsp" class="text-4xl ml-7">Nước hoa nam</a>
 
             <div class="mt-7">
                 <div class="w-screen grid grid-cols-4 gap-4 justify-center ml-7 mr-7">
@@ -346,7 +362,7 @@
         </div>
         <div class="mt-5">
             <!-- Nuoc hoa nu -->
-            <p class="text-4xl ml-7">Nước hoa nữ</p>
+            <a href="NUOCHOANU.jsp" class="text-4xl ml-7">Nước hoa nữ</a>
 
             <div class="mt-7">
                 <div class="w-screen grid grid-cols-4 gap-4 justify-center ml-7 mr-7">
@@ -412,7 +428,7 @@
                 <div class="w-screen grid grid-cols-4 gap-4 justify-center ml-7 mr-7">
                     <!-- item element starts -->
                     <div class="text-center space-y-3 w-[175px]">
-                        <a href="#" class="">
+                        <a href="NUOCHOAMUAX.jsp" class="">
                             <img src="./img/mua xuan.jpg" alt="" class=" z-0" />
                         </a>
                         <p class="z-0">Mùa xuân</p>
@@ -421,7 +437,7 @@
 
                     <!-- item element starts -->
                     <div class="text-center space-y-3 w-[175px]">
-                        <a href="#" class="">
+                        <a href="NUOCHOAMUAH.jsp" class="">
                             <img src="./img/mua thu.jpg" alt="" class=" z-0" />
                         </a>
                         <p class="z-0">Mùa hạ</p>
@@ -430,7 +446,7 @@
 
                     <!-- item element starts -->
                     <div class="text-center space-y-3 w-[175px]">
-                        <a href="#" class="">
+                        <a href="NUOCHOAMUAT.jsp" class="">
                             <img src="./img/mua thu.jpg" alt="" class=" z-0" />
                         </a>
                         <p class="z-0">Mùa thu</p>
@@ -439,7 +455,7 @@
 
                     <!-- item element starts -->
                     <div class="text-center space-y-3 w-[175px]">
-                        <a href="#" class="">
+                        <a href="NUOCHOAMUAD.jsp" class="">
                             <img src="./img/mua dong.jpg" alt="" class=" z-0" />
                         </a>
                         <p class="z-0">Mùa đông</p>
@@ -452,7 +468,7 @@
             <!-- About Us -->
             <p class="text-4xl mt-64 mb-24 text-center">ABOUT US</p>
 
-            <div class="w-screen grid grid-cols-4 gap-4 ml-7 mr-7 py-24 bg-gray-400">
+            <div class="w-screen grid grid-cols-4 gap-4 mr-7 py-24 bg-gray-400">
 
                 <div class="text-black ml-5 mb-3">
                     <img src="./img/icon-shop-light.jpg" alt="" class="mx-auto" />

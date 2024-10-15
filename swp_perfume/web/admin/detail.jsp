@@ -27,7 +27,7 @@
         <div class="flex flex-col h-screen p-4 sm:ml-64">
             <!-- MAIN CONTENT -->
             <br>
-
+                PRODUCT DETAIL GOES HERE
             <br>
             <!-- FOOTER -->
             <div class="mt-auto">

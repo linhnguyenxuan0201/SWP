@@ -29,7 +29,7 @@
                     <br />
                     <br />
                     <br />
-                    <a href="/login">
+                    <a href="login.jsp">
                         <div class="flex justify-evenly">
                             <div class="bg-gray-200 text-black py-1.5 w-[20rem]">
                                 Đăng nhập

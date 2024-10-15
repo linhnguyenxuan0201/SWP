@@ -41,7 +41,7 @@
                 </form>
 
                 <div class="mt-2">
-                    <a class="text-sm" href="#">Quên mật khẩu?</a>
+                    <a class="text-sm" href="forget_password.jsp">Quên mật khẩu?</a>
                 </div>
 
 
@@ -59,7 +59,7 @@
             <p>Trở thành thành viên của Luxury Perfume để nhận được những ưu đãi và dịch vụ bất ngờ</p>
             <br />
             <br />
-            <a href="/signup">
+            <a href="signup.jsp">
             <div class="flex justify-evenly mb-9">
                 <div class="bg-gray-200 text-black py-1.5 w-[20rem]">
                     Đăng kí ngay
