@@ -24,7 +24,7 @@
         <!-- LEFT -->
         <jsp:include page="../components/admin_sidebar.jsp" />
         <!-- RIGHT -->
-        <p class="text-center mt-6 text-2xl sm:ml-64">QUẢN LÝ ĐƠN HÀNG</p>
+        <p class="text-center mt-6 text-2xl sm:ml-64">QUẢN LÝ REVIEW</p>
         <div class="flex flex-col h-screen p-4 sm:ml-64">
             <!-- MAIN CONTENT -->
             <br>

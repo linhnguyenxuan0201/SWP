@@ -24,7 +24,7 @@
         <!-- LEFT -->
         <jsp:include page="../components/admin_sidebar.jsp" />
         <!-- RIGHT -->
-        <p class="text-center mt-6 text-2xl sm:ml-64">QUẢN LÝ ĐƠN HÀNG</p>
+        <p class="text-center mt-6 text-2xl sm:ml-64">QUẢN LÝ TỒN KHO</p>
         <div class="flex flex-col h-screen p-4 sm:ml-64">
             <!-- MAIN CONTENT -->
             <br>
@@ -47,14 +47,6 @@
                         <td class="p-4 py-3">Test</td>
                         <td class="p-4 py-3">Test</td>
                         <td class="p-4 py-3">Test</td>
-                        <td class="p-4 py-3 w-[10rem] justify-center">
-                            <button class="bg-pink-300 border border-blue-600 p-1" onclick="location.href = 'detail.jsp'">
-                                Detail
-                            </button>
-                            <button class="bg-red-300 border border-red-600 p-1" onclick="#">
-                                Delete
-                            </button>
-                        </td>
                     </tr>
                     <!-- DATA ENDS -->
                     <tr class="p-4 border-b border-slate-200">

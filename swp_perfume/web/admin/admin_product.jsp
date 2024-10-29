@@ -28,27 +28,42 @@
         <div class="flex flex-col h-screen p-4 sm:ml-64">
             <!-- MAIN CONTENT -->
             <br>
-                <table class="table-auto border-black border-2">
-                    <thead class="bg-gray-300">
-                        <tr>
-                            <th class="p-4 border-b border-slate-200">Test</th>
-                            <th class="p-4 border-b border-slate-200">Test</th>
-                            <th class="p-4 border-b border-slate-200">Test</th>
-                        </tr>
-                    </thead>
-                    <tbody class="bg-slate-50">
-                        <tr class="p-4 border-b border-slate-200">
-                            <td class="p-4 py-3">Test</td>
-                            <td class="p-4 py-3">Test</td>
-                            <td class="p-4 py-3">Test</td>
-                        </tr>
-                        <tr class="p-4 border-b border-slate-200">
-                            <td class="p-4 py-3">Test</td>
-                            <td class="p-4 py-3">Test</td>
-                            <td class="p-4 py-3">Test</td>
-                        </tr>
-                    </tbody>
-                </table>
+            <button class="bg-black text-white border border-blue-600 p-1" onclick="location.href = 'detail.jsp'">
+                Add New Product
+            </button>
+            <table class="table-auto border-black border-2">
+                <thead class="bg-gray-300">
+                    <tr>
+                        <th class="p-4 border-b border-slate-200">Test</th>
+                        <th class="p-4 border-b border-slate-200">Test</th>
+                        <th class="p-4 border-b border-slate-200">Test</th>
+                        <th class="p-4 border-b border-slate-200"></th>
+                    </tr>
+                </thead>
+                <tbody class="bg-slate-50">
+                    <tr class="p-4 border-b border-slate-200">
+                        <td class="p-4 py-3">Test</td>
+                        <td class="p-4 py-3">Test</td>
+                        <td class="p-4 py-3">Test</td>
+                        <td class="p-4 py-3 w-[10rem] justify-center">
+                            <button class="bg-pink-300 border border-blue-600 p-1" onclick="location.href = 'detail.jsp'">
+                                Detail
+                            </button>
+                            <button class="bg-purple-300 border border-blue-600 p-1" onclick="location.href = 'detail.jsp'">
+                                Update
+                            </button>
+                            <button class="bg-red-300 border border-red-600 p-1" onclick="#">
+                                Delete
+                            </button>
+                        </td>
+                    </tr>
+                    <tr class="p-4 border-b border-slate-200">
+                        <td class="p-4 py-3">Test</td>
+                        <td class="p-4 py-3">Test</td>
+                        <td class="p-4 py-3">Test</td>
+                    </tr>
+                </tbody>
+            </table>
             <br>
             <!-- FOOTER -->
             <div class="mt-auto">

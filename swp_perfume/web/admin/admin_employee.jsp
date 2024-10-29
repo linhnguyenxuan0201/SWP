@@ -24,9 +24,13 @@
         <!-- LEFT -->
         <jsp:include page="../components/admin_sidebar.jsp" />
         <!-- RIGHT -->
-        <p class="text-center mt-6 text-2xl sm:ml-64">QUẢN LÝ ĐƠN HÀNG</p>
+        <p class="text-center mt-6 text-2xl sm:ml-64">QUẢN LÝ NHÂN VIÊN</p>
         <div class="flex flex-col h-screen p-4 sm:ml-64">
             <!-- MAIN CONTENT -->
+            <br>
+            <button class="bg-black text-white border border-blue-600 p-1" onclick="location.href = 'detail.jsp'">
+                Add New Employee
+            </button>
             <br>
             <table class="table-auto border-black border-2">
                 <thead class="bg-gray-300">
@@ -51,6 +55,9 @@
                             <button class="bg-pink-300 border border-blue-600 p-1" onclick="location.href = 'detail.jsp'">
                                 Detail
                             </button>
+                            <button class="bg-purple-300 border border-blue-600 p-1" onclick="location.href = 'detail.jsp'">
+                                Update
+                            </button>
                             <button class="bg-red-300 border border-red-600 p-1" onclick="#">
                                 Delete
                             </button>
@@ -74,8 +81,6 @@
                     <div></div>
                 </footer>
             </div>
-
-
         </div>
     </body>
 </html>

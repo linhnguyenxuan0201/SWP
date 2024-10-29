@@ -36,20 +36,6 @@
                     </button>
                 </div>
                 </form>
-                
-                <form action="OTP" method="post">
-                <div class="flex mt-5">
-                    <p class="py-2 mr-3 text-center align-middle">Nhập OTP:</p>
-                    <input type="text" placeholder="" class="py-2 pl-2 text-black placeholder-black bg-gray-200 w-[30rem] text-center" />
-                </div>
-                    
-                <div class="flex justify-evenly">
-                    <button class="bg-red-600 text-black py-1.5 w-[20rem] mt-5">
-                        Thay mật khẩu
-                    </button>
-                </div>
-                </form>
-                
             </div>
         </div>
 
